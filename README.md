@@ -23,7 +23,7 @@ Attribute Information:
 7.	Bare Nuclei:1-10
 8.	Bland Chromatin:1-10
 9.	Normal Nucleoli:1-10
-10.	Mitoses:1-10
+10.	Diagnosis:1-10
 11.	Class: (0 for Benign, 1 for Malignant)
 ### 3.Build and Train the model using SVM
 Using SVM (Support Vector Machines) we build and train a model using human cell records, and classify cells to predict whether the samples are benign or malignant.
