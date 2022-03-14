@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/gayathri1462/Breast-Cancer-Detection-Web-App/blob/main/output.jpeg?raw=true)
 
-#### Working link: (Deployed on Heroku) https://cancer-flask-app.herokuapp.com/
+#### Working link: (Deployed on Heroku) https://predict-the-breast-cancer.herokuapp.com/
 
 ### 1.Project Requirements or Dependencies
 * Anaconda Python (to get ML Libraries)
