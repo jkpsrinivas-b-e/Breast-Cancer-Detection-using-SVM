@@ -2,7 +2,8 @@
 
 ## A Web Application to predict Breast Cancer using SVM  (Deployed on Heroku)
 
-![alt text](https://github.com/gayathri1462/Breast-Cancer-Detection-Web-App/blob/main/output.jpeg?raw=true)
+
+![Screenshot (191)](https://user-images.githubusercontent.com/76250835/181804657-e704b625-d0fa-4cb8-8c91-093b03ee1ca8.png)
 
 #### Working link: (Deployed on Heroku) https://predict-the-breast-cancer.herokuapp.com/
 
