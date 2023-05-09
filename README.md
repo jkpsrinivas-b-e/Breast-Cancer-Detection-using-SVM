@@ -5,7 +5,7 @@
 
 ![Screenshot (191)](https://user-images.githubusercontent.com/76250835/181804657-e704b625-d0fa-4cb8-8c91-093b03ee1ca8.png)
 
-#### Working link: (Deployed on Render) https://forecast-breast-cancer.onrender.com/predict
+#### Working link: (Deployed on Render) https://forecast-breast-cancer.onrender.com
 
 ### 1.Project Requirements or Dependencies
 * Anaconda Python (to get ML Libraries)
