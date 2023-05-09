@@ -1,4 +1,4 @@
-# Breast Cancer Detection Web Application
+# Breast Cancer Detection Web
 
 ## A Web Application to predict Breast Cancer using SVM  (Deployed on Heroku)
 
